@@ -10,7 +10,7 @@ Return the resulting array. The input arrays should remain the same after the fu
 
 */
 
-//Own Solution
+//Solution One
 
 function frankenSplice(arr1, arr2, n) {           //1
   // It's alive. It's alive!
